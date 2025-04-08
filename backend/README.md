@@ -117,5 +117,3 @@ python agent.py dev
 - If the agent doesn't respond, check your OpenAI API key and ensure it has sufficient credits.
 
 ## License
-
-[Specify your license here] 
