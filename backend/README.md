@@ -40,7 +40,7 @@ The agent can perform the following database operations:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mudit14224/insurance-call-center.git
 cd insurance-call-center/backend
 ```
 
